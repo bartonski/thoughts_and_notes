@@ -22,19 +22,23 @@ div.container {
 
 <div class="container">
 <div class="left">
+
 * [ ] Work out
 * [ ] Meds
 * [ ] Coffee
 * [ ] Feed dogs
 * [ ] Breakfast
+
 </div>
 
 <div class="right">
+
 * [ ] Brush Teeth
 * [ ] Shower
 * [ ] Shave
 * [ ] Record weight ______
 * [ ] Record BP ______
+
 </div>
 </div>
 
@@ -69,17 +73,21 @@ div.container {
 
 <div class="container">
 <div class="left">
+
 * [ ] Meds
 * [ ] Set up coffee maker
 * [ ] Doggy pee-pee
 * [ ] Lights
 * [ ] Doors
+
 </div>
 <div class="right">
+
 * [ ] Stove
 * [ ] Alarm
 * [ ] Brush teeth
 * [ ] Floss
+
 </div>
 </div>
 
@@ -87,17 +95,21 @@ div.container {
 
 <div class="container">
 <div class="left">
+
 * [ ] Meal planning
 * [ ] Make grocery list
 * [ ] Gas up car
 * [ ] Juggling
+
 </div>
 
 <div class="right">
+
 * [ ] Clean Upstairs Commode
 * [ ] Clean Downstairs Commode
 * [ ] Laundry
 * [ ] Dustmop downstairs
+
 </div>
 </div>
 
